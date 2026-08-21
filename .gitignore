@@ -1,0 +1,19 @@
+#Ambiente Virtual
+venv/
+.env
+
+#Python Cache
+_pycache__/
+*.pyc
+
+#Dados locais e banco de dados
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep    
+*.db
+*.sqlite3
+
+#Arquivos de sistema/IDE
+.DS_Store
+.vscode/
