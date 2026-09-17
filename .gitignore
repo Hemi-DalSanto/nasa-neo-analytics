@@ -17,3 +17,6 @@ data/processed/*
 #Arquivos de sistema/IDE
 .DS_Store
 .vscode/
+
+#Arquivos de Credencias
+credentials.json
