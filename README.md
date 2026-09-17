@@ -1,4 +1,4 @@
-#NASA NEO Analytics
+# 🌠 NASA NEO Analytics
 
 Pipeline de dados ponta a ponta que extrai informações de **asteroides próximos da Terra (Near Earth Objects)** direto da API pública da NASA, transforma e armazena os dados em um banco relacional, sincroniza automaticamente com o Google Sheets e alimenta um dashboard analítico no Looker Studio.
 
