@@ -1,4 +1,4 @@
-# 🌠 NASA NEO Analytics
+#NASA NEO Analytics
 
 Pipeline de dados ponta a ponta que extrai informações de **asteroides próximos da Terra (Near Earth Objects)** direto da API pública da NASA, transforma e armazena os dados em um banco relacional, sincroniza automaticamente com o Google Sheets e alimenta um dashboard analítico no Looker Studio.
 
@@ -144,16 +144,7 @@ Os dados sincronizados no Google Sheets alimentam um dashboard no Looker Studio 
 - Ranking das aproximações mais próximas
 - Distribuição de tamanhos e padrão por dia da semana
 
-🔗 *[Link do dashboard aqui]*
-
----
-
-## 🗺️ Próximos passos
-
-- [ ] Agendamento automático do pipeline (cron / Task Scheduler / GitHub Actions)
-- [ ] Testes automatizados para as funções de extração e transformação
-- [ ] Deploy do pipeline em nuvem (ex: Cloud Functions / AWS Lambda)
-- [ ] Migração do SQLite para um banco na nuvem (ex: BigQuery) para consultas mais robustas
+🔗 *[]*
 
 ---
 
